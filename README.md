@@ -1,4 +1,4 @@
-# Storage Estimator
+# Storage Estimator - Feature Version
 
 A small Python program that estimates how much storage a set of files needs.
 Built for CS-117 Introduction to ICT, Lab 11 (Git and GitHub).
